@@ -1,6 +1,7 @@
 #include <iostream>
 int main()
 {
-	std::cout << "Hello World!\n\n";
+	// Print some text
+	std::cout << "Welcome!\n\n\n";
 
 }
